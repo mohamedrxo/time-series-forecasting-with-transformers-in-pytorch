@@ -1,2 +1,2 @@
-<a href='./img.jpg' />
-<a href="./pytorch.png"/>
+<img href='./img.jpg' />
+<img href="./pytorch.png"/>
